@@ -1,1 +1,1 @@
-# hackerrank (30 days of code)
+# Hackerrank Solutions (30 days of code)
